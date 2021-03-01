@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "name": "Tamim Iqbal",
+        "email": "Tamimiqbal@gmail.com",
+        "gender": "Male",
+        "salary":4151.50,
+        "team":"Khulna Tigers",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVG9F0JC8y_EX02nWEpR5-H2Jf6JXi44wiUw&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "name": "Mushfiqur Rahim",
+        "email": "Mushfiqurrahim@gmail.com",
+        "gender": "Male",
+        "salary":6086.08,
+        "team":"Dhaka Platoon",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWNcemEwpiYovI4DB0Eqt-NPqGqu_cPa4Rqw&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "Sakib Al Hasan",
+        "email": "Sakibalhasan@gmail.com",
+        "gender": "Male",
+        "salary":9598.99,
+        "team":"Cumilla Warriors",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiKlUWpkV6hNpOBN7Jc98IfIICWM2_IpwRZQ&usqp=CAU "
+    },
+    {
+        "id": 4,
+        "name": "Mahmudullah Riyad",
+        "email": "Mahmudullahriyad@gmail.com",
+        "gender": "Male",
+        "salary":5824.45,
+        "team":"Khulna Tigers",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUE4T_ETIEBZap95lGhWQXhA-7nx9cF6QRg&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "Rubel Hossain",
+        "email": "Rubelhossain@gmail.com",
+        "gender": "Male",
+        "salary":9128.23,
+        "team":"Cumilla Warriors",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIAua9bu7C9xi3Jv4EG9j1lSIk4H_vhPzOeA&usqp=CAU"
+    },
+    {
+        "id": 6,
+        "name": "Shabbir Rahman",
+        "email": "ShabbirRahman@gmail.com",
+        "gender": "Male",
+        "salary":3221.25,
+        "team":"Rajshai Royals",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHagOa4H9T1HZX5mydHmaZgHZlUVe9D82BDQ&usqp=CAU"
+    },
+    {
+        "id": 7,
+        "name": "Soumya Sarkar",
+        "email": "Soumyasarkar@gmail.com",
+        "gender": "Male",
+        "salary":5457.37,
+        "team":"Khulna Tigers",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZNys8j5oBGoNMDQuMeongByratWJCBURdtw&usqp=CAU"
+    },
+    {
+        "id": 8,
+        "name": "Mustafizur Rahman",
+        "email": "MustafizurRahman@gmail.com",
+        "gender": "Male",
+        "salary":4279.97,
+        "team":"Dhaka Platoon",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxs5rjmPLqZELiIII-F5YroJw2UIygn8MG8w&usqp=CAU"
+    },
+    {
+        "id": 9,
+        "name": "Mehedi Hasan Miraz",
+        "email": "Mehedimiraz@gmail.com",
+        "gender": "Male",
+        "salary":7679.00,
+        "team":"Cumilla Warriors",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgN6GnksACbsJKRmqmDpbjNnkQSSVJrr20mw&usqp=CAU"
+    },
+    {
+        "id": 10,
+        "name": "Liton Kumar Das",
+        "email": "litondas@gmail.com",
+        "gender": "Male",
+        "salary":7339.13,
+        "team":"Khulna Tigers",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTME5d2NitZWsOsM1chW50gDMX2mnGPlLncgA&usqp=CAU"
+    },
+    {
+        "id": 11,
+        "name": "Mosaddek Hossain",
+        "email": "Mosaddekhossain@gmail.com",
+        "gender": "Male",
+        "salary":4632.65,
+        "team":"Dhaka Platoon",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxL6vAABWGP_ht0iWUP63rPBb5V86tsZ6fPg&usqp=CAU"
+    },
+    {
+        "id": 12,
+        "name": "Mohammad Saifuddin",
+        "email": "mdsaifuddin@gmail.com",
+        "gender": "Male",
+        "salary":4783.96,
+        "team":"Chottogram Challengers",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnzVlzBkYPDcEiUSbw40Ju4IzIeQe-zzTGKA&usqp=CAU"
+    },
+    {
+        "id": 13,
+        "name": "Mohammad Mithun ALi",
+        "email": "mdmithun@gmail.com",
+        "gender": "Male",
+        "salary":6353.67,
+        "team":"Khulna Tigers",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSUIholZ-763hChaxJSEjYp2JKmlqyLb4dQ&usqp=CAU"
+    },
+    {
+        "id": 14,
+        "name": "Abu Zahed Rahi",
+        "email": "Aburahi@gmail.com",
+        "gender": "Male",
+        "salary":3500.75,
+        "team":"Rajshai Royals",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm7GWLGJtAPPyGLegMNBzBDsIdEPqtLSCBBg&usqp=CAU"
+    },
+    {
+        "id": 15,
+        "name": "Taskin Ahmed",
+        "email": "Taskinahmed@gmail.com",
+        "gender": "Male",
+        "salary":8771.09,
+        "team":"Khulna Tigers",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFxEs3XrX6ljWBT1Uphquv6FnkreRM7aZgPg&usqp=CAU"
+    }
+]

@@ -1,0 +1,43 @@
+.player-section {
+    display: flex;
+    padding-bottom: 5px;
+    justify-content: center;
+    align-items: center;
+    width: 85%;
+    margin: 5px auto;
+    box-shadow: 0px 5px 10px #666363 ;
+    margin-bottom: 50px;
+    border-radius:9px;
+}
+
+.image {
+    width: 300px;
+    height: 250px;
+    padding: 5px;
+}
+
+.player-name {
+    color: #333333;
+    font-weight: 400;
+    text-decoration: none;
+    margin-top:30px;
+}
+.pdesign{
+    font-weight:bold;
+    font-size:16px;
+}
+
+.half-section {
+    width: 50%;
+}
+
+.main-button {
+    background-color: #333333;
+    color: white;
+    width: 150px;
+    padding:10px;
+    margin:5px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    cursor: pointer;
+}
